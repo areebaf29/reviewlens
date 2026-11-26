@@ -1,0 +1,401 @@
+id,rating,title,text,date,aspect
+R1,1,,Bought for commuting. Sound is flat and lifeless compared to my old pair.,2026-07-02,sound
+R2,2,,Keeps disconnecting from my phone every few minutes.,2026-03-01,connectivity
+R3,2,,The earbuds die after a couple of hours of music. Using them daily.,2026-06-20,battery
+R4,5,,Great value for the money. Ordered for my son.,2026-09-20,price
+R5,5,,"Excellent sound quality, very balanced. Ordered for my son.",2026-04-04,sound
+R6,3,,"Using them daily. Not worth the price, competitors do more for less.",2026-10-17,price
+R7,4,,Bought for commuting. Charging case gives three extra top ups.,2026-10-13,battery
+R8,2,,Too expensive given the build quality.,2026-01-07,price
+R9,2,,Ordered for my son. Bass is muddy and the treble is harsh.,2026-05-05,sound
+R10,4,,Switching between phone and laptop is seamless. Second purchase.,2026-04-07,connectivity
+R11,3,,Battery life dropped badly after two months.,2026-09-13,battery
+R12,5,,Connection is rock solid across rooms. Bought for commuting.,2026-07-13,connectivity
+R13,5,,Worth every rupee.,2026-07-08,price
+R14,2,,"Second purchase. Battery drains way too fast, barely four hours.",2026-07-05,battery
+R15,4,,Call quality is great even outdoors. Delivery was quick. Noise cancelling blocks out the train and office chatter.,2026-08-16,noise
+R16,2,,Ordered for my son. They hurt my ears after an hour.,2026-02-13,comfort
+R17,5,,Worth every rupee.,2026-08-25,price
+R18,4,,"Microphone is clear, people hear me well on calls. Case is solid and the hinge feels durable. Bought for commuting.",2026-10-05,build
+R19,2,,"Noise cancelling is weak, I still hear traffic. Left earbud stopped charging after light use, feels flimsy. Delivery was quick.",2026-01-10,noise
+R20,4,,Noise cancelling blocks out the train and office chatter.,2026-08-06,noise
+R21,5,,Sound is rich with punchy bass and clear vocals.,2026-09-01,sound
+R22,2,,Audio stutters and cuts out in crowded places.,2026-02-15,connectivity
+R23,4,,Great isolation on my commute.,2026-05-17,noise
+R24,5,,Bought for commuting. Battery lasts a full work day and then some.,2026-06-20,battery
+R25,5,,"Bluetooth pairs instantly and stays connected. Microphone is clear, people hear me well on calls.",2026-04-23,calls
+R26,1,,"Using them daily. Left earbud stopped charging after light use, feels flimsy.",2026-08-04,build
+R27,3,,"Noise cancelling is weak, I still hear traffic. Using them daily. The fit is loose and they fall out when I walk fast.",2026-07-26,comfort
+R28,2,,Pairing fails half the time and I have to reset them.,2026-03-13,connectivity
+R29,1,,The case hinge broke within a month. Using them daily.,2026-06-26,build
+R30,5,,"Microphone is clear, people hear me well on calls. Ordered for my son.",2026-01-17,calls
+R31,5,,Using them daily. Battery lasts a full work day and then some.,2026-03-14,battery
+R32,2,,"Not worth the price, competitors do more for less. Using them daily. Battery drains way too fast, barely four hours.",2026-10-04,price
+R33,5,,Charging case gives three extra top ups.,2026-05-08,battery
+R34,5,,"Microphone is clear, people hear me well on calls.",2026-09-02,calls
+R35,5,,The ear tips seal well and never hurt. Using them daily.,2026-09-19,comfort
+R36,2,,"Too bulky, uncomfortable for sleeping or long calls. Using them daily.",2026-07-04,comfort
+R37,5,,Delivery was quick. Switching between phone and laptop is seamless.,2026-09-25,connectivity
+R38,2,,Delivery was quick. Overpriced for what you get.,2026-09-22,price
+R39,5,,"Excellent sound quality, very balanced. Microphone is clear, people hear me well on calls.",2026-09-11,calls
+R40,5,,Charging case gives three extra top ups.,2026-02-08,battery
+R41,4,,"Ordered for my son. The ear tips seal well and never hurt. Excellent sound quality, very balanced.",2026-06-10,comfort
+R42,5,,"Excellent sound quality, very balanced.",2026-10-07,sound
+R43,1,,"Battery drains way too fast, barely four hours. Delivery was quick.",2026-02-28,battery
+R44,5,,Case is solid and the hinge feels durable. Second purchase.,2026-06-17,build
+R45,5,,Charging case gives three extra top ups. Build quality feels premium and sturdy. Second purchase.,2026-02-22,battery
+R46,4,,Sound is rich with punchy bass and clear vocals.,2026-04-02,sound
+R47,2,,Sound is flat and lifeless compared to my old pair. Pairing fails half the time and I have to reset them.,2026-10-15,sound
+R48,2,,"Too bulky, uncomfortable for sleeping or long calls. Bought for commuting.",2026-05-13,comfort
+R49,2,,"Using them daily. Too bulky, uncomfortable for sleeping or long calls.",2026-09-03,comfort
+R50,3,,"Not worth the price, competitors do more for less. Keeps disconnecting from my phone every few minutes.",2026-09-24,price
+R51,3,,"Noise cancelling is weak, I still hear traffic.",2026-07-05,noise
+R52,3,,Bass is muddy and the treble is harsh. The earbuds die after a couple of hours of music. Using them daily.,2026-09-27,sound
+R53,1,,"Noise cancelling is weak, I still hear traffic. Bought for commuting. Too expensive given the build quality.",2026-05-24,price
+R54,4,,"Ordered for my son. Microphone is clear, people hear me well on calls. Lightweight fit that stays in during runs.",2026-02-23,calls
+R55,2,,Ordered for my son. The case hinge broke within a month.,2026-05-21,build
+R56,1,,Second purchase. Sound is flat and lifeless compared to my old pair.,2026-06-19,sound
+R57,5,,Great value for the money. Delivery was quick.,2026-02-18,price
+R58,2,,Keeps disconnecting from my phone every few minutes. ANC makes a hissing sound and barely cuts background noise. Bought for commuting.,2026-09-14,noise
+R59,1,,Too expensive given the build quality.,2026-02-21,price
+R60,5,,Delivery was quick. Noise cancelling blocks out the train and office chatter. Build quality feels premium and sturdy.,2026-07-03,build
+R61,3,,The earbuds die after a couple of hours of music. Using them daily.,2026-05-07,battery
+R62,4,,"Second purchase. Excellent sound quality, very balanced.",2026-02-22,sound
+R63,5,,"Microphone is clear, people hear me well on calls. Excellent sound quality, very balanced. Delivery was quick.",2026-03-08,sound
+R64,5,,"Great isolation on my commute. Very comfortable, I forget I'm wearing them. Delivery was quick.",2026-02-23,noise
+R65,5,,Bluetooth pairs instantly and stays connected. Second purchase.,2026-01-12,connectivity
+R66,5,,Great value for the money.,2026-03-19,price
+R67,2,,They hurt my ears after an hour.,2026-01-02,comfort
+R68,5,,"Bought for commuting. ANC is excellent, I can't hear the fan at all.",2026-07-25,noise
+R69,2,,Second purchase. Battery life dropped badly after two months. Callers say I sound like I'm in a tunnel.,2026-08-22,battery
+R70,1,,Second purchase. The case hinge broke within a month.,2026-02-03,build
+R71,5,,"Microphone is clear, people hear me well on calls. Second purchase. Great value for the money.",2026-01-17,calls
+R72,5,,Ordered for my son. Great isolation on my commute.,2026-01-01,noise
+R73,5,,"Very comfortable, I forget I'm wearing them.",2026-02-02,comfort
+R74,5,,"Microphone is clear, people hear me well on calls. Using them daily.",2026-03-09,calls
+R75,4,,Bought for commuting. Sound is rich with punchy bass and clear vocals.,2026-02-02,sound
+R76,2,,ANC makes a hissing sound and barely cuts background noise. Ordered for my son.,2026-09-25,noise
+R77,4,,Build quality feels premium and sturdy. Delivery was quick. Lightweight fit that stays in during runs.,2026-10-09,build
+R78,5,,Ordered for my son. Case is solid and the hinge feels durable. Charging case gives three extra top ups.,2026-06-01,build
+R79,3,,Bought for commuting. The case hinge broke within a month.,2026-07-16,build
+R80,2,,"The fit is loose and they fall out when I walk fast. Not worth the price, competitors do more for less.",2026-08-26,price
+R81,2,,Ordered for my son. The fit is loose and they fall out when I walk fast.,2026-07-02,comfort
+R82,3,,Bass is muddy and the treble is harsh. Second purchase. Transparency mode sounds muffled and unnatural.,2026-05-11,noise
+R83,2,,Battery life dropped badly after two months. Second purchase.,2026-09-09,battery
+R84,5,,Second purchase. Case is solid and the hinge feels durable.,2026-06-17,build
+R85,5,,"Ordered for my son. Microphone is clear, people hear me well on calls.",2026-01-08,calls
+R86,3,,Using them daily. Keeps disconnecting from my phone every few minutes.,2026-04-17,connectivity
+R87,5,,Case is solid and the hinge feels durable. Lightweight fit that stays in during runs.,2026-05-27,comfort
+R88,2,,Callers say I sound like I'm in a tunnel. Delivery was quick.,2026-08-04,calls
+R89,5,,"Second purchase. Microphone is clear, people hear me well on calls.",2026-04-12,calls
+R90,5,,Bought for commuting. Call quality is great even outdoors.,2026-02-17,calls
+R91,1,,"Noise cancelling is weak, I still hear traffic.",2026-10-03,noise
+R92,5,,Using them daily. Worth every rupee. Charging case gives three extra top ups.,2026-05-10,price
+R93,2,,The earbuds die after a couple of hours of music.,2026-04-20,battery
+R94,2,,Bass is muddy and the treble is harsh. Bought for commuting.,2026-07-07,sound
+R95,1,,Callers say I sound like I'm in a tunnel.,2026-01-02,calls
+R96,4,,Ordered for my son. Battery lasts a full work day and then some.,2026-10-15,battery
+R97,4,,Noise cancelling blocks out the train and office chatter. Bought for commuting. Battery lasts a full work day and then some.,2026-07-28,battery
+R98,2,,Second purchase. Pairing fails half the time and I have to reset them.,2026-10-24,connectivity
+R99,5,,Cheaper than the big brands and just as good.,2026-04-21,price
+R100,1,,The earbuds die after a couple of hours of music. Using them daily.,2026-02-26,battery
+R101,2,,Too expensive given the build quality. ANC makes a hissing sound and barely cuts background noise. Using them daily.,2026-05-14,noise
+R102,5,,Bought for commuting. Case is solid and the hinge feels durable.,2026-06-07,build
+R103,2,,"Too bulky, uncomfortable for sleeping or long calls. Second purchase.",2026-03-20,comfort
+R104,2,,Callers say I sound like I'm in a tunnel. Second purchase.,2026-03-07,calls
+R105,5,,"Connection is rock solid across rooms. Delivery was quick. ANC is excellent, I can't hear the fan at all.",2026-08-05,noise
+R106,5,,"Excellent sound quality, very balanced.",2026-09-24,sound
+R107,4,,Build quality feels premium and sturdy. Sound is rich with punchy bass and clear vocals.,2026-06-23,sound
+R108,4,,Case is solid and the hinge feels durable. Using them daily.,2026-02-01,build
+R109,4,,Cheaper than the big brands and just as good. Bluetooth pairs instantly and stays connected. Bought for commuting.,2026-07-28,connectivity
+R110,1,,Delivery was quick. Mic picks up wind noise and my voice is distorted on calls.,2026-07-25,calls
+R111,5,,"Bought for commuting. ANC is excellent, I can't hear the fan at all.",2026-08-09,noise
+R112,4,,Second purchase. Worth every rupee.,2026-06-25,price
+R113,4,,Cheaper than the big brands and just as good. Using them daily.,2026-09-27,price
+R114,2,,Too expensive given the build quality. Ordered for my son.,2026-10-24,price
+R115,2,,The fit is loose and they fall out when I walk fast.,2026-07-24,comfort
+R116,2,,The fit is loose and they fall out when I walk fast. Ordered for my son.,2026-10-09,comfort
+R117,5,,Case is solid and the hinge feels durable.,2026-04-02,build
+R118,2,,Audio stutters and cuts out in crowded places. Ordered for my son.,2026-03-08,connectivity
+R119,1,,"Left earbud stopped charging after light use, feels flimsy.",2026-06-19,build
+R120,5,,Great isolation on my commute. Sound is rich with punchy bass and clear vocals. Second purchase.,2026-06-05,noise
+R121,4,,Lightweight fit that stays in during runs. Bought for commuting. Switching between phone and laptop is seamless.,2026-07-04,comfort
+R122,2,,Callers say I sound like I'm in a tunnel.,2026-06-14,calls
+R123,5,,Using them daily. Case is solid and the hinge feels durable.,2026-05-04,build
+R124,3,,Mic picks up wind noise and my voice is distorted on calls. Ordered for my son.,2026-07-08,calls
+R125,3,,Pairing fails half the time and I have to reset them. Ordered for my son.,2026-01-20,connectivity
+R126,5,,Cheaper than the big brands and just as good.,2026-04-26,price
+R127,2,,Bass is muddy and the treble is harsh. Second purchase.,2026-04-14,sound
+R128,3,,Bass is muddy and the treble is harsh. Transparency mode sounds muffled and unnatural. Using them daily.,2026-01-21,sound
+R129,5,,Call quality is great even outdoors.,2026-07-23,calls
+R130,4,,"Using them daily. Connection is rock solid across rooms. Very comfortable, I forget I'm wearing them.",2026-06-07,connectivity
+R131,5,,"Bought for commuting. Excellent sound quality, very balanced.",2026-04-22,sound
+R132,5,,Build quality feels premium and sturdy. Ordered for my son.,2026-10-18,build
+R133,4,,Bluetooth pairs instantly and stays connected. Using them daily. Great isolation on my commute.,2026-07-27,noise
+R134,2,,"Pairing fails half the time and I have to reset them. Too bulky, uncomfortable for sleeping or long calls. Bought for commuting.",2026-02-27,comfort
+R135,5,,Sound is rich with punchy bass and clear vocals. Delivery was quick.,2026-03-17,sound
+R136,3,,Battery life dropped badly after two months.,2026-07-24,battery
+R137,2,,"Left earbud stopped charging after light use, feels flimsy. The fit is loose and they fall out when I walk fast.",2026-05-08,build
+R138,2,,Callers say I sound like I'm in a tunnel.,2026-03-02,calls
+R139,2,,Sound is flat and lifeless compared to my old pair.,2026-03-16,sound
+R140,2,,Sound is flat and lifeless compared to my old pair. Using them daily.,2026-04-03,sound
+R141,1,,"Battery life dropped badly after two months. Delivery was quick. Left earbud stopped charging after light use, feels flimsy.",2026-08-12,battery
+R142,5,,"Ordered for my son. Excellent sound quality, very balanced.",2026-05-08,sound
+R143,2,,The fit is loose and they fall out when I walk fast.,2026-05-09,comfort
+R144,3,,Ordered for my son. Mic picks up wind noise and my voice is distorted on calls.,2026-01-12,calls
+R145,5,,Battery lasts a full work day and then some.,2026-08-06,battery
+R146,5,,Bought for commuting. Great value for the money.,2026-02-09,price
+R147,5,,Using them daily. Connection is rock solid across rooms.,2026-09-24,connectivity
+R148,2,,"ANC makes a hissing sound and barely cuts background noise. Battery drains way too fast, barely four hours.",2026-03-09,battery
+R149,5,,"Excellent sound quality, very balanced. Bought for commuting.",2026-07-21,sound
+R150,4,,"Ordered for my son. ANC is excellent, I can't hear the fan at all.",2026-03-09,noise
+R151,5,,"Excellent sound quality, very balanced.",2026-01-22,sound
+R152,3,,The case hinge broke within a month.,2026-07-20,build
+R153,3,,Mic picks up wind noise and my voice is distorted on calls. Bought for commuting.,2026-02-05,calls
+R154,5,,Connection is rock solid across rooms.,2026-01-21,connectivity
+R155,1,,Too expensive given the build quality.,2026-01-07,price
+R156,1,,The earbuds die after a couple of hours of music. Mic picks up wind noise and my voice is distorted on calls. Second purchase.,2026-01-20,calls
+R157,4,,Second purchase. The ear tips seal well and never hurt.,2026-07-06,comfort
+R158,4,,Second purchase. Lightweight fit that stays in during runs. Great isolation on my commute.,2026-06-17,comfort
+R159,5,,Ordered for my son. Switching between phone and laptop is seamless.,2026-04-06,connectivity
+R160,2,,ANC makes a hissing sound and barely cuts background noise. Ordered for my son. They hurt my ears after an hour.,2026-01-16,comfort
+R161,2,,Transparency mode sounds muffled and unnatural. Second purchase.,2026-07-13,noise
+R162,3,,Pairing fails half the time and I have to reset them. Ordered for my son.,2026-05-07,connectivity
+R163,5,,Sound is rich with punchy bass and clear vocals.,2026-01-18,sound
+R164,2,,"Delivery was quick. Noise cancelling is weak, I still hear traffic.",2026-08-16,noise
+R165,3,,"Bought for commuting. Left earbud stopped charging after light use, feels flimsy.",2026-04-02,build
+R166,1,,Mic picks up wind noise and my voice is distorted on calls.,2026-04-03,calls
+R167,5,,"Microphone is clear, people hear me well on calls.",2026-02-24,calls
+R168,5,,Connection is rock solid across rooms.,2026-01-24,connectivity
+R169,4,,"Excellent sound quality, very balanced. I get around eight hours per charge, great for travel.",2026-04-15,battery
+R170,3,,Sound is flat and lifeless compared to my old pair. Ordered for my son.,2026-10-12,sound
+R171,5,,Bought for commuting. Bluetooth pairs instantly and stays connected.,2026-01-01,connectivity
+R172,2,,Too expensive given the build quality.,2026-07-14,price
+R173,5,,"Very comfortable, I forget I'm wearing them. Cheaper than the big brands and just as good.",2026-07-16,price
+R174,5,,Case is solid and the hinge feels durable.,2026-06-17,build
+R175,4,,"Ordered for my son. Excellent sound quality, very balanced.",2026-03-17,sound
+R176,3,,Delivery was quick. Mic picks up wind noise and my voice is distorted on calls.,2026-10-13,calls
+R177,3,,Delivery was quick. Mic picks up wind noise and my voice is distorted on calls.,2026-05-14,calls
+R178,3,,"Second purchase. Not worth the price, competitors do more for less.",2026-08-05,price
+R179,1,,Pairing fails half the time and I have to reset them. Using them daily.,2026-08-06,connectivity
+R180,5,,Lightweight fit that stays in during runs. Noise cancelling blocks out the train and office chatter.,2026-09-21,noise
+R181,1,,Transparency mode sounds muffled and unnatural. Delivery was quick. The earbuds die after a couple of hours of music.,2026-05-08,noise
+R182,4,,Call quality is great even outdoors.,2026-05-26,calls
+R183,2,,Audio stutters and cuts out in crowded places. Using them daily.,2026-10-22,connectivity
+R184,3,,ANC makes a hissing sound and barely cuts background noise. Second purchase.,2026-07-24,noise
+R185,5,,Second purchase. Lightweight fit that stays in during runs.,2026-02-27,comfort
+R186,5,,Call quality is great even outdoors.,2026-08-13,calls
+R187,2,,Second purchase. Pairing fails half the time and I have to reset them.,2026-02-28,connectivity
+R188,3,,Using them daily. They hurt my ears after an hour.,2026-06-02,comfort
+R189,5,,"Ordered for my son. I get around eight hours per charge, great for travel.",2026-02-12,battery
+R190,2,,"Delivery was quick. Too bulky, uncomfortable for sleeping or long calls.",2026-02-25,comfort
+R191,1,,Using them daily. Sound is flat and lifeless compared to my old pair.,2026-05-10,sound
+R192,4,,Bought for commuting. Sound is rich with punchy bass and clear vocals.,2026-06-15,sound
+R193,5,,Bought for commuting. Sound is rich with punchy bass and clear vocals.,2026-04-14,sound
+R194,3,,Second purchase. Too expensive given the build quality.,2026-08-23,price
+R195,3,,"Too bulky, uncomfortable for sleeping or long calls. Ordered for my son.",2026-06-26,comfort
+R196,2,,The case hinge broke within a month.,2026-08-17,build
+R197,1,,Keeps disconnecting from my phone every few minutes.,2026-10-27,connectivity
+R198,3,,Second purchase. Sound is flat and lifeless compared to my old pair.,2026-07-24,sound
+R199,3,,"Noise cancelling is weak, I still hear traffic. Using them daily. Mic picks up wind noise and my voice is distorted on calls.",2026-02-16,calls
+R200,4,,Bought for commuting. Worth every rupee.,2026-10-02,price
+R201,2,,Callers say I sound like I'm in a tunnel.,2026-05-12,calls
+R202,2,,Bought for commuting. The fit is loose and they fall out when I walk fast. Bass is muddy and the treble is harsh.,2026-07-18,sound
+R203,2,,"Left earbud stopped charging after light use, feels flimsy.",2026-03-19,build
+R204,5,,Bought for commuting. Charging case gives three extra top ups.,2026-03-16,battery
+R205,5,,Great value for the money. Second purchase.,2026-04-26,price
+R206,4,,Using them daily. Bluetooth pairs instantly and stays connected.,2026-01-25,connectivity
+R207,2,,Mic picks up wind noise and my voice is distorted on calls.,2026-03-14,calls
+R208,3,,"The case hinge broke within a month. Battery drains way too fast, barely four hours. Second purchase.",2026-06-26,battery
+R209,5,,Lightweight fit that stays in during runs. Ordered for my son. Build quality feels premium and sturdy.,2026-10-19,build
+R210,4,,Great isolation on my commute. Ordered for my son.,2026-02-26,noise
+R211,5,,Worth every rupee. Using them daily.,2026-08-13,price
+R212,4,,Second purchase. Great isolation on my commute.,2026-07-23,noise
+R213,4,,Second purchase. Switching between phone and laptop is seamless.,2026-02-07,connectivity
+R214,5,,Bluetooth pairs instantly and stays connected. Ordered for my son. Build quality feels premium and sturdy.,2026-05-01,connectivity
+R215,2,,Keeps disconnecting from my phone every few minutes.,2026-10-06,connectivity
+R216,3,,Using them daily. ANC makes a hissing sound and barely cuts background noise.,2026-05-01,noise
+R217,5,,Case is solid and the hinge feels durable.,2026-05-04,build
+R218,2,,Keeps disconnecting from my phone every few minutes. Second purchase.,2026-03-01,connectivity
+R219,4,,Call quality is great even outdoors. Delivery was quick.,2026-09-01,calls
+R220,2,,Using them daily. Mic picks up wind noise and my voice is distorted on calls.,2026-06-13,calls
+R221,2,,Callers say I sound like I'm in a tunnel. Delivery was quick.,2026-02-24,calls
+R222,4,,Battery lasts a full work day and then some.,2026-06-15,battery
+R223,1,,"Left earbud stopped charging after light use, feels flimsy. Battery drains way too fast, barely four hours.",2026-01-03,build
+R224,2,,The case hinge broke within a month.,2026-06-01,build
+R225,4,,Cheaper than the big brands and just as good. Second purchase.,2026-01-22,price
+R226,5,,Switching between phone and laptop is seamless. Ordered for my son.,2026-02-02,connectivity
+R227,2,,Transparency mode sounds muffled and unnatural. Pairing fails half the time and I have to reset them.,2026-08-07,noise
+R228,5,,Ordered for my son. Battery lasts a full work day and then some. The ear tips seal well and never hurt.,2026-01-11,battery
+R229,5,,"Great isolation on my commute. Microphone is clear, people hear me well on calls.",2026-07-12,noise
+R230,5,,Case is solid and the hinge feels durable.,2026-02-27,build
+R231,5,,"Very comfortable, I forget I'm wearing them.",2026-08-06,comfort
+R232,3,,Second purchase. Transparency mode sounds muffled and unnatural.,2026-08-20,noise
+R233,5,,"Excellent sound quality, very balanced. Connection is rock solid across rooms. Bought for commuting.",2026-07-28,sound
+R234,4,,"Very comfortable, I forget I'm wearing them. Using them daily.",2026-01-06,comfort
+R235,5,,Bought for commuting. Great isolation on my commute. Call quality is great even outdoors.,2026-09-13,calls
+R236,2,,Pairing fails half the time and I have to reset them. Ordered for my son.,2026-03-11,connectivity
+R237,5,,Switching between phone and laptop is seamless. Using them daily.,2026-10-19,connectivity
+R238,1,,They hurt my ears after an hour. Too expensive given the build quality.,2026-01-12,price
+R239,1,,"They hurt my ears after an hour. Battery drains way too fast, barely four hours. Bought for commuting.",2026-09-25,comfort
+R240,2,,Battery life dropped badly after two months. Overpriced for what you get. Bought for commuting.,2026-05-14,price
+R241,5,,Great isolation on my commute.,2026-03-03,noise
+R242,4,,"Lightweight fit that stays in during runs. ANC is excellent, I can't hear the fan at all.",2026-08-17,comfort
+R243,4,,Noise cancelling blocks out the train and office chatter. Second purchase.,2026-05-15,noise
+R244,5,,"Worth every rupee. Using them daily. Microphone is clear, people hear me well on calls.",2026-06-17,calls
+R245,1,,"Left earbud stopped charging after light use, feels flimsy.",2026-06-18,build
+R246,2,,Keeps disconnecting from my phone every few minutes.,2026-01-01,connectivity
+R247,2,,Mic picks up wind noise and my voice is distorted on calls.,2026-06-08,calls
+R248,2,,"Bought for commuting. Left earbud stopped charging after light use, feels flimsy.",2026-05-19,build
+R249,2,,Delivery was quick. ANC makes a hissing sound and barely cuts background noise.,2026-08-18,noise
+R250,5,,Build quality feels premium and sturdy. Bought for commuting.,2026-03-07,build
+R251,3,,Sound is flat and lifeless compared to my old pair. Bought for commuting.,2026-01-02,sound
+R252,4,,The ear tips seal well and never hurt. Second purchase. Noise cancelling blocks out the train and office chatter.,2026-09-25,noise
+R253,2,,"Not worth the price, competitors do more for less. Bought for commuting.",2026-08-17,price
+R254,3,,Bass is muddy and the treble is harsh. Bought for commuting.,2026-03-21,sound
+R255,5,,Great value for the money. Ordered for my son.,2026-05-25,price
+R256,4,,Switching between phone and laptop is seamless. Worth every rupee. Ordered for my son.,2026-07-26,price
+R257,4,,Case is solid and the hinge feels durable.,2026-06-17,build
+R258,5,,Lightweight fit that stays in during runs. Second purchase.,2026-02-20,comfort
+R259,4,,"I get around eight hours per charge, great for travel.",2026-02-24,battery
+R260,2,,"Battery drains way too fast, barely four hours. Second purchase.",2026-05-17,battery
+R261,3,,"Too bulky, uncomfortable for sleeping or long calls. Using them daily. Mic picks up wind noise and my voice is distorted on calls.",2026-05-19,comfort
+R262,1,,They hurt my ears after an hour.,2026-07-17,comfort
+R263,2,,Bass is muddy and the treble is harsh. Bought for commuting.,2026-02-23,sound
+R264,2,,"Left earbud stopped charging after light use, feels flimsy. Delivery was quick.",2026-05-01,build
+R265,3,,They hurt my ears after an hour. Using them daily.,2026-03-26,comfort
+R266,3,,Battery life dropped badly after two months.,2026-03-20,battery
+R267,2,,"Bought for commuting. Mic picks up wind noise and my voice is distorted on calls. Noise cancelling is weak, I still hear traffic.",2026-03-22,calls
+R268,5,,"Excellent sound quality, very balanced. Delivery was quick.",2026-04-26,sound
+R269,4,,Switching between phone and laptop is seamless. Second purchase.,2026-02-21,connectivity
+R270,2,,Battery life dropped badly after two months.,2026-04-09,battery
+R271,5,,Call quality is great even outdoors.,2026-07-06,calls
+R272,5,,The ear tips seal well and never hurt. Build quality feels premium and sturdy.,2026-02-15,build
+R273,1,,Callers say I sound like I'm in a tunnel.,2026-06-23,calls
+R274,5,,Sound is rich with punchy bass and clear vocals.,2026-08-01,sound
+R275,5,,"Connection is rock solid across rooms. Microphone is clear, people hear me well on calls. Ordered for my son.",2026-02-13,calls
+R276,3,,ANC makes a hissing sound and barely cuts background noise. Using them daily. The fit is loose and they fall out when I walk fast.,2026-05-24,noise
+R277,5,,"Call quality is great even outdoors. Very comfortable, I forget I'm wearing them. Bought for commuting.",2026-09-25,calls
+R278,5,,Second purchase. Build quality feels premium and sturdy.,2026-08-08,build
+R279,3,,"Transparency mode sounds muffled and unnatural. Left earbud stopped charging after light use, feels flimsy.",2026-04-26,noise
+R280,2,,Pairing fails half the time and I have to reset them. Battery life dropped badly after two months. Using them daily.,2026-02-18,battery
+R281,1,,"Not worth the price, competitors do more for less. Delivery was quick.",2026-06-07,price
+R282,1,,Mic picks up wind noise and my voice is distorted on calls.,2026-01-14,calls
+R283,5,,Call quality is great even outdoors.,2026-02-24,calls
+R284,3,,Overpriced for what you get. Using them daily.,2026-02-28,price
+R285,1,,"Battery drains way too fast, barely four hours. Second purchase. Noise cancelling is weak, I still hear traffic.",2026-07-01,noise
+R286,4,,"ANC is excellent, I can't hear the fan at all. Delivery was quick.",2026-03-13,noise
+R287,4,,Case is solid and the hinge feels durable. Ordered for my son. Call quality is great even outdoors.,2026-05-21,build
+R288,5,,Great value for the money. Bought for commuting. Bluetooth pairs instantly and stays connected.,2026-05-23,connectivity
+R289,5,,"I get around eight hours per charge, great for travel. Ordered for my son.",2026-02-23,battery
+R290,1,,The case hinge broke within a month. Second purchase.,2026-03-22,build
+R291,2,,"Noise cancelling is weak, I still hear traffic. Ordered for my son.",2026-05-15,noise
+R292,4,,Delivery was quick. Cheaper than the big brands and just as good.,2026-07-24,price
+R293,3,,Ordered for my son. The case hinge broke within a month.,2026-10-22,build
+R294,5,,Ordered for my son. Call quality is great even outdoors.,2026-01-06,calls
+R295,2,,Ordered for my son. Sound is flat and lifeless compared to my old pair.,2026-02-18,sound
+R296,1,,"Bought for commuting. Battery drains way too fast, barely four hours.",2026-10-05,battery
+R297,5,,Build quality feels premium and sturdy. Second purchase.,2026-10-15,build
+R298,2,,The fit is loose and they fall out when I walk fast.,2026-06-07,comfort
+R299,5,,Second purchase. Lightweight fit that stays in during runs.,2026-08-02,comfort
+R300,5,,"Delivery was quick. I get around eight hours per charge, great for travel.",2026-09-12,battery
+R301,3,,Battery life dropped badly after two months. Bought for commuting. Keeps disconnecting from my phone every few minutes.,2026-02-05,connectivity
+R302,5,,Build quality feels premium and sturdy.,2026-08-13,build
+R303,2,,Pairing fails half the time and I have to reset them. Delivery was quick.,2026-10-17,connectivity
+R304,4,,Worth every rupee.,2026-06-15,price
+R305,5,,"I get around eight hours per charge, great for travel.",2026-09-15,battery
+R306,2,,Ordered for my son. Too expensive given the build quality.,2026-07-22,price
+R307,3,,"Not worth the price, competitors do more for less.",2026-05-23,price
+R308,5,,Second purchase. Great isolation on my commute. Switching between phone and laptop is seamless.,2026-04-12,noise
+R309,1,,Battery life dropped badly after two months. Delivery was quick. Sound is flat and lifeless compared to my old pair.,2026-05-02,battery
+R310,5,,Bought for commuting. Connection is rock solid across rooms.,2026-04-10,connectivity
+R311,2,,Callers say I sound like I'm in a tunnel. Bought for commuting.,2026-08-04,calls
+R312,2,,Bass is muddy and the treble is harsh. Mic picks up wind noise and my voice is distorted on calls. Ordered for my son.,2026-08-03,sound
+R313,5,,Switching between phone and laptop is seamless. Bought for commuting.,2026-05-19,connectivity
+R314,4,,"ANC is excellent, I can't hear the fan at all. Bought for commuting.",2026-10-21,noise
+R315,4,,Bought for commuting. Charging case gives three extra top ups.,2026-10-19,battery
+R316,1,,ANC makes a hissing sound and barely cuts background noise.,2026-05-09,noise
+R317,3,,"ANC makes a hissing sound and barely cuts background noise. Using them daily. Too bulky, uncomfortable for sleeping or long calls.",2026-03-02,noise
+R318,5,,Bought for commuting. Case is solid and the hinge feels durable. Battery lasts a full work day and then some.,2026-07-28,battery
+R319,5,,Using them daily. Sound is rich with punchy bass and clear vocals.,2026-06-06,sound
+R320,3,,"Noise cancelling is weak, I still hear traffic.",2026-08-15,noise
+R321,1,,"Left earbud stopped charging after light use, feels flimsy.",2026-06-20,build
+R322,2,,"Noise cancelling is weak, I still hear traffic. Using them daily. They hurt my ears after an hour.",2026-05-17,noise
+R323,4,,Great value for the money. Delivery was quick.,2026-07-02,price
+R324,1,,Delivery was quick. The earbuds die after a couple of hours of music.,2026-04-17,battery
+R325,5,,Switching between phone and laptop is seamless. Second purchase.,2026-10-05,connectivity
+R326,2,,"Too bulky, uncomfortable for sleeping or long calls.",2026-06-12,comfort
+R327,4,,Second purchase. Battery lasts a full work day and then some.,2026-09-16,battery
+R328,5,,"Microphone is clear, people hear me well on calls.",2026-05-28,calls
+R329,4,,Second purchase. Case is solid and the hinge feels durable.,2026-04-01,build
+R330,3,,Too expensive given the build quality. Ordered for my son. Transparency mode sounds muffled and unnatural.,2026-05-02,price
+R331,2,,Ordered for my son. Bass is muddy and the treble is harsh.,2026-09-06,sound
+R332,5,,Sound is rich with punchy bass and clear vocals.,2026-03-02,sound
+R333,2,,Keeps disconnecting from my phone every few minutes. Delivery was quick.,2026-04-03,connectivity
+R334,2,,Second purchase. The case hinge broke within a month.,2026-06-14,build
+R335,2,,The fit is loose and they fall out when I walk fast. Ordered for my son.,2026-07-10,comfort
+R336,4,,"Very comfortable, I forget I'm wearing them. Great value for the money.",2026-07-03,price
+R337,5,,"Using them daily. I get around eight hours per charge, great for travel.",2026-10-13,battery
+R338,1,,Ordered for my son. Keeps disconnecting from my phone every few minutes.,2026-10-25,connectivity
+R339,2,,Battery life dropped badly after two months. Second purchase.,2026-07-07,battery
+R340,5,,Lightweight fit that stays in during runs. Delivery was quick.,2026-05-27,comfort
+R341,1,,Ordered for my son. The case hinge broke within a month. Keeps disconnecting from my phone every few minutes.,2026-10-12,connectivity
+R342,2,,Second purchase. Transparency mode sounds muffled and unnatural.,2026-05-21,noise
+R343,4,,"Very comfortable, I forget I'm wearing them. Microphone is clear, people hear me well on calls.",2026-09-27,comfort
+R344,5,,Bluetooth pairs instantly and stays connected. Second purchase. Worth every rupee.,2026-10-19,price
+R345,4,,Great isolation on my commute.,2026-07-18,noise
+R346,2,,Delivery was quick. Mic picks up wind noise and my voice is distorted on calls.,2026-01-25,calls
+R347,5,,Delivery was quick. Lightweight fit that stays in during runs.,2026-06-09,comfort
+R348,5,,Second purchase. Build quality feels premium and sturdy.,2026-05-28,build
+R349,5,,"Switching between phone and laptop is seamless. Using them daily. I get around eight hours per charge, great for travel.",2026-09-12,connectivity
+R350,4,,"Very comfortable, I forget I'm wearing them.",2026-10-24,comfort
+R351,3,,"Sound is flat and lifeless compared to my old pair. Ordered for my son. Not worth the price, competitors do more for less.",2026-01-22,sound
+R352,2,,Too expensive given the build quality. Second purchase.,2026-07-09,price
+R353,5,,Using them daily. Connection is rock solid across rooms.,2026-05-26,connectivity
+R354,5,,"Very comfortable, I forget I'm wearing them.",2026-06-15,comfort
+R355,3,,Pairing fails half the time and I have to reset them.,2026-03-18,connectivity
+R356,4,,Call quality is great even outdoors. Delivery was quick. The ear tips seal well and never hurt.,2026-03-08,comfort
+R357,1,,They hurt my ears after an hour.,2026-10-23,comfort
+R358,4,,Using them daily. Cheaper than the big brands and just as good.,2026-01-22,price
+R359,5,,Using them daily. Lightweight fit that stays in during runs. Sound is rich with punchy bass and clear vocals.,2026-07-20,comfort
+R360,5,,"I get around eight hours per charge, great for travel.",2026-02-02,battery
+R361,5,,The ear tips seal well and never hurt. Delivery was quick.,2026-10-12,comfort
+R362,3,,"Ordered for my son. Battery drains way too fast, barely four hours.",2026-10-06,battery
+R363,4,,Bought for commuting. The ear tips seal well and never hurt.,2026-07-03,comfort
+R364,3,,Bass is muddy and the treble is harsh. Bought for commuting. Keeps disconnecting from my phone every few minutes.,2026-04-06,sound
+R365,5,,Sound is rich with punchy bass and clear vocals. Delivery was quick.,2026-06-23,sound
+R366,1,,The case hinge broke within a month.,2026-06-06,build
+R367,2,,Too expensive given the build quality. Ordered for my son.,2026-08-23,price
+R368,5,,Switching between phone and laptop is seamless.,2026-04-26,connectivity
+R369,5,,Call quality is great even outdoors.,2026-06-15,calls
+R370,4,,"Very comfortable, I forget I'm wearing them. ANC is excellent, I can't hear the fan at all. Delivery was quick.",2026-04-05,comfort
+R371,5,,Bought for commuting. Charging case gives three extra top ups.,2026-03-14,battery
+R372,4,,Ordered for my son. Case is solid and the hinge feels durable.,2026-10-11,build
+R373,3,,Overpriced for what you get. Sound is flat and lifeless compared to my old pair.,2026-08-03,sound
+R374,2,,"Not worth the price, competitors do more for less.",2026-03-10,price
+R375,5,,"Excellent sound quality, very balanced. Second purchase.",2026-02-06,sound
+R376,2,,Battery life dropped badly after two months. Ordered for my son.,2026-09-18,battery
+R377,2,,"Battery drains way too fast, barely four hours. Second purchase.",2026-08-10,battery
+R378,2,,Bought for commuting. The case hinge broke within a month.,2026-03-19,build
+R379,3,,Using them daily. Sound is flat and lifeless compared to my old pair.,2026-04-02,sound
+R380,3,,"Left earbud stopped charging after light use, feels flimsy. Second purchase. Noise cancelling is weak, I still hear traffic.",2026-09-27,noise
+R381,2,,The earbuds die after a couple of hours of music. Bought for commuting.,2026-07-28,battery
+R382,3,,Pairing fails half the time and I have to reset them.,2026-08-27,connectivity
+R383,5,,The ear tips seal well and never hurt.,2026-07-02,comfort
+R384,2,,"Not worth the price, competitors do more for less.",2026-05-02,price
+R385,2,,Keeps disconnecting from my phone every few minutes. Using them daily.,2026-10-09,connectivity
+R386,4,,Sound is rich with punchy bass and clear vocals. Switching between phone and laptop is seamless. Ordered for my son.,2026-06-16,connectivity
+R387,2,,Delivery was quick. Bass is muddy and the treble is harsh.,2026-05-01,sound
+R388,1,,The case hinge broke within a month. The fit is loose and they fall out when I walk fast. Using them daily.,2026-10-11,comfort
+R389,3,,Second purchase. Mic picks up wind noise and my voice is distorted on calls.,2026-04-26,calls
+R390,5,,Great value for the money. Bought for commuting.,2026-02-01,price
+R391,4,,Switching between phone and laptop is seamless. The ear tips seal well and never hurt.,2026-05-02,comfort
+R392,2,,The case hinge broke within a month. Bought for commuting.,2026-09-18,build
+R393,1,,Keeps disconnecting from my phone every few minutes.,2026-07-13,connectivity
+R394,4,,Charging case gives three extra top ups. Delivery was quick.,2026-03-03,battery
+R395,4,,Worth every rupee. Call quality is great even outdoors. Ordered for my son.,2026-06-19,calls
+R396,5,,Build quality feels premium and sturdy. Delivery was quick. Noise cancelling blocks out the train and office chatter.,2026-06-10,noise
+R397,2,,Using them daily. The case hinge broke within a month.,2026-10-12,build
+R398,4,,Great isolation on my commute.,2026-01-14,noise
+R399,5,,Noise cancelling blocks out the train and office chatter.,2026-01-11,noise
+R400,1,,"Mic picks up wind noise and my voice is distorted on calls. Left earbud stopped charging after light use, feels flimsy.",2026-04-15,build
